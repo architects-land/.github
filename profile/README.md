@@ -2,7 +2,7 @@
 
 Architects Land is a family of SMP Minecraft server.
 
-Every repositories owned by this organization was made for a season of Architects Land.
+Every repository owned by this organization was made for a season of Architects Land.
 
 ## Seasons
 
